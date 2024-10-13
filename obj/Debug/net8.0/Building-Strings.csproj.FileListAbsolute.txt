@@ -1,0 +1,15 @@
+/Users/mojidyusuferoje/Desktop/CeeSharp/Building-Strings/bin/Debug/net8.0/Building-Strings
+/Users/mojidyusuferoje/Desktop/CeeSharp/Building-Strings/bin/Debug/net8.0/Building-Strings.deps.json
+/Users/mojidyusuferoje/Desktop/CeeSharp/Building-Strings/bin/Debug/net8.0/Building-Strings.runtimeconfig.json
+/Users/mojidyusuferoje/Desktop/CeeSharp/Building-Strings/bin/Debug/net8.0/Building-Strings.dll
+/Users/mojidyusuferoje/Desktop/CeeSharp/Building-Strings/bin/Debug/net8.0/Building-Strings.pdb
+/Users/mojidyusuferoje/Desktop/CeeSharp/Building-Strings/obj/Debug/net8.0/Building-Strings.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mojidyusuferoje/Desktop/CeeSharp/Building-Strings/obj/Debug/net8.0/Building-Strings.AssemblyInfoInputs.cache
+/Users/mojidyusuferoje/Desktop/CeeSharp/Building-Strings/obj/Debug/net8.0/Building-Strings.AssemblyInfo.cs
+/Users/mojidyusuferoje/Desktop/CeeSharp/Building-Strings/obj/Debug/net8.0/Building-Strings.csproj.CoreCompileInputs.cache
+/Users/mojidyusuferoje/Desktop/CeeSharp/Building-Strings/obj/Debug/net8.0/Building-Strings.sourcelink.json
+/Users/mojidyusuferoje/Desktop/CeeSharp/Building-Strings/obj/Debug/net8.0/Building-Strings.dll
+/Users/mojidyusuferoje/Desktop/CeeSharp/Building-Strings/obj/Debug/net8.0/refint/Building-Strings.dll
+/Users/mojidyusuferoje/Desktop/CeeSharp/Building-Strings/obj/Debug/net8.0/Building-Strings.pdb
+/Users/mojidyusuferoje/Desktop/CeeSharp/Building-Strings/obj/Debug/net8.0/Building-Strings.genruntimeconfig.cache
+/Users/mojidyusuferoje/Desktop/CeeSharp/Building-Strings/obj/Debug/net8.0/ref/Building-Strings.dll
